@@ -12,15 +12,15 @@ This repository contains several examples of snap-ins to help you get started:
 
 1. **assignment 1: Utilizing DevRev API**
    - Description: Demonstrates the creation of a work item using the DevRev API.
-   - Folder: `step1-utilizing-devrev-api/`
+   - Folder: `assignment1-utilizing-devrev-api/`
 
 2. **assignemnt 2: Creating a Ticket Snap-in**
    - Description: Creates a snap-in that automatically creates tickets in the DevRev platform every 10 minutes.
-   - Folder: `step2-create-ticket-snap-in/`
+   - Folder: `assignment2-create-ticket-snap-in/`
 
 3. **assignment 3: Auto-Reply Snap-in**
    - Description: Implements an auto-reply snap-in that responds to messages outside office hours.
-   - Folder: `step3-auto-reply-snap-in/`
+   - Folder: `assignment3-auto-reply-snap-in/`
   
   ### Getting started with the template
 1. Create a new repository from this template.
