@@ -37,7 +37,7 @@ response = requests.post(url, json=payload, headers=headers)
 ## Images
 
 ### Screenshot 1: Successful API Request
-![Screenshot 1](assignment1-utilizing-devrev-api/Screenshot 1.1.png)
+[Screenshot 2024-04-11 204439](https://github.com/Akarshh711/DevRev_Assignment/assets/96855236/017402dd-3bbc-46c2-9bb7-8fcfddea9762)
 
 ### Screenshot 2: Newly Created Ticket
 ![Screenshot 2](Screenshot 1.2.png)
