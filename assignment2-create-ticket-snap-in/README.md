@@ -84,4 +84,7 @@ Once satisfied with code changes, build and package the snap-in, then deploy it 
 
 By following these steps, you can deploy the Automatic Timely Ticket Creation Snap-in to your DevRev organization and automate ticket creation, improving task management and issue resolution efficiency.
 
+## Images
 
+### Screenshot 1: Successful ticket generation every 10 minutes
+![Screenshot 2024-04-12 133531](https://github.com/Akarshh711/DevRev_Assignment/assets/96855236/4e24afc3-ba80-4e6e-bfa6-20ed843f7123)
