@@ -1,4 +1,4 @@
-# Using the DevRev API
+# DevRev API Utilization
 
 ## Overview
 
@@ -14,6 +14,14 @@ To get started with the DevRev API, you'll need the following:
 ## Making API Requests
 
 API requests to DevRev are made over HTTPS to the base URL `https://api.devrev.ai/`. Each request must include the API key in the `Authorization` header.
+
+## Work Items
+- Tickets: Used for customer support requests or inquiries. They track customer issues or problems and ensure they are addressed satisfactorily.
+
+- Issues: Aligned with development and project tracking. Assigned to team members and attached to specific parts to align efforts with product priorities.
+
+- Tasks: Break down larger work into smaller pieces, can be part of tickets and issues.
+
 
 ### Example Request (Python)
 
@@ -34,11 +42,25 @@ payload = {
 
 response = requests.post(url, json=payload, headers=headers)
 ```
+## Conclusion
+
+Utilizing the DevRev API effectively can streamline your project management workflows and improve collaboration within your team. By leveraging the API to create, update, and retrieve work items, you can automate repetitive tasks and ensure that project progress is tracked accurately.
+
 ## Images
 
 ### Screenshot 1: Successful API Request
-[Screenshot 2024-04-11 204439](https://github.com/Akarshh711/DevRev_Assignment/assets/96855236/017402dd-3bbc-46c2-9bb7-8fcfddea9762)
+
+![Screenshot 2024-04-11 204439](https://github.com/Akarshh711/DevRev_Assignment/assets/96855236/017402dd-3bbc-46c2-9bb7-8fcfddea9762)
 
 ### Screenshot 2: Newly Created Ticket
-![Screenshot 2](Screenshot 1.2.png)
+
+![Screenshot 2024-04-11 204540](https://github.com/Akarshh711/DevRev_Assignment/assets/96855236/c7ac76c4-0e30-4c4d-95bd-358f15874ffd)
+
+### Screenshot 3: Ticket
+
+![Screenshot 2024-04-11 204609](https://github.com/Akarshh711/DevRev_Assignment/assets/96855236/fc38b4c7-8bc3-4779-9f8c-574be91b2808)
+
+
+
+
 
