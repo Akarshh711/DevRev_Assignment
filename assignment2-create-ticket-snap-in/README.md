@@ -88,3 +88,6 @@ By following these steps, you can deploy the Automatic Timely Ticket Creation Sn
 
 ### Screenshot 1: Successful ticket generation every 10 minutes
 ![Screenshot 2024-04-12 133531](https://github.com/Akarshh711/DevRev_Assignment/assets/96855236/4e24afc3-ba80-4e6e-bfa6-20ed843f7123)
+
+### Screenshot 1: Timely Ticket Snap-in
+![Screenshot 2024-04-12 133831](https://github.com/Akarshh711/DevRev_Assignment/assets/96855236/13755273-0a3b-4ae1-bdd7-f5d6ffaf089f)
