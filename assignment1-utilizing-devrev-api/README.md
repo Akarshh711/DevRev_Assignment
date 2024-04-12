@@ -37,8 +37,8 @@ response = requests.post(url, json=payload, headers=headers)
 ## Images
 
 ### Screenshot 1: Successful API Request
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](assignment1-utilizing-devrev-api/Screenshot 1.1.png)
 
 ### Screenshot 2: Newly Created Ticket
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](Screenshot 1.2.png)
 
