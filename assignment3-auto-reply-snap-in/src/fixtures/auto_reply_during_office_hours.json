@@ -1,0 +1,24 @@
+{
+    "context": {
+      "secrets": {
+        "service_account_token": "your_service_account_token"
+      }
+    },
+    "execution_metadata": {
+      "devrev_endpoint": "your_devrev_endpoint"
+    },
+    "input_data": {
+      "global_values": {
+        "office_hours_start": "09:00",
+        "office_hours_end": "17:00"
+      }
+    },
+    "payload": {
+      "work_created": {
+        "work": {
+          "id": "work_id"
+        }
+      }
+    }
+  }
+  
